@@ -76,7 +76,7 @@ enabled = true
 
 ## Comments
 [comments]
-enabled = false
+enabled = true
 provider = "giscus"
 
 [comments.disqusjs]
@@ -128,11 +128,11 @@ serverName = "cactus.chat"
 siteName = ""
 
 [comments.giscus]
-repo = ""
-repoID = ""
-category = ""
-categoryID = ""
-mapping = ""
+repo = "Heimao-git/blog"
+repoID = "R_kgDOOUeZkQ"
+category = "Announcements"
+categoryID = "DIC_kwDOOUeZkc4CzG76"
+mapping = "title"
 lightTheme = ""
 darkTheme = ""
 reactionsEnabled = 1
