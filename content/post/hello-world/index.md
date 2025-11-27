@@ -1,20 +1,26 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
+title: 你好世界
+description: 歡迎來到我的部落格
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
-image: cover.jpg
+date: 2025-11-27 00:00:00+0800
+image: cover.png
 categories:
-    - Example Category
+    - 介紹
 tags:
-    - Example Tag
+    - 介紹
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
+有了個人網域數年後，終於開始想弄個人網站了。  
 
-For more information about this theme, check the documentation: https://stack.jimmycai.com/
+對於社會邊緣人的我來說，一直以來都在想著要透過什麼方式表達（發文章）自己想法。  
+用 IG、脆（Threads）的話，會覺得自己的興趣跟身邊的人沒什麼交集，而且不太習慣發短文。  
+用推特的話 ...... 好像台灣沒什麼人用推特發。  
 
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
+或許只是我不太擅長經營社群吧？  
 
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+總之，個人部落格。  
+我預計會發 Linux、自架伺服器相關的筆記，或是長文心得也說不定。  
+不過我非文組，也說不定到後面又懶得經營了，但至少非 AI 撰寫。 OuOb
+
+> 照片由個人拍攝。
