@@ -9,7 +9,7 @@ cdnLocalAssetPrefix = "/cdn-assets/"
 
 [footer]
 since = 2025
-customText = ""
+customText = "> 跟灰貓借的網站 ouo"
 
 [dateFormat]
 published = "Jan 02, 2006"
