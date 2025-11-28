@@ -3,6 +3,9 @@ mainSections = ["post"]
 # Output page's full content in RSS.
 rssFullContent = true
 favicon = "/favicon.png"
+# 當 assets 使用特定的 prefix 時以 R2 網域取代
+cdnBaseURL = "https://static-blog.huimao.xyz"
+cdnLocalAssetPrefix = "/cdn-assets/"
 
 [footer]
 since = 2025

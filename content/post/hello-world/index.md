@@ -3,7 +3,7 @@ title: 你好世界
 description: 歡迎來到我的部落格
 slug: hello-world
 date: 2025-11-27 00:00:00+0800
-image: cover.png
+image: https://static-blog.huimao.xyz/hello-world/cover.webp
 categories:
     - 介紹
 tags:
